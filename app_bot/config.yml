@@ -1,9 +1,9 @@
 telegram:
-  api_id: 00000000000
-  api_hash: "REPLACE-WITH-TELEGRAM-API-HASH"
-  token: "REPLACE-WITH-TELEGRAM-TOKEN"
+  api_id: 24665357
+  api_hash: "beb7e4b83ada668fa85f9a9b56338f1d"
+  token: "6710116600:AAHfY2VAo9k0PNLfbI_ypODOh11h6s8-q4w"
   lang_code: !!str "en"
-  max_upload_tasks: 5
+  max_upload_tasks: 10
   url_validation_regexes:
     - "^http(s)?:\\/\\/.+$"
   allowed_users:  # Multiple users/groups are allowed.
